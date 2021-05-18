@@ -14,8 +14,7 @@ div.container {
 }
 
 h1 {
-	margin-left: 9em;
-	margin-right: 12em;
+
 	width: 9em;
 
 }
@@ -25,7 +24,7 @@ nav {
 	border-width: 1px 0;
 	margin: 0;
 	padding-bottom: 0;
-	text-align: center;
+	
 
 }
 
@@ -62,7 +61,6 @@ nav ul li a:hover {
 h2 {
 
 	font-family: learning-curve, sans-serif;
-	text-align: center;
 	font-weight: 400;
 	font-style: normal;
 	color: #3F80C2;
